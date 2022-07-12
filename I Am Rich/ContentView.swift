@@ -19,6 +19,7 @@ struct ContentView: View {
                     .aspectRatio(contentMode: .fit)
                     .padding(50.0)
                     .frame(width: 350.0, alignment: .center)
+                Spacer()
                 Text("I Am Rich")
                     .font(.system(size: 40))
                     .fontWeight(.bold)
@@ -27,6 +28,7 @@ struct ContentView: View {
                     .resizable()
                     .aspectRatio(contentMode: .fit)
                     .frame(width: 200, alignment: .center)
+                Spacer()
             }
                 
         }
