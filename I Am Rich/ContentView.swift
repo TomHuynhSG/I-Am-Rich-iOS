@@ -10,6 +10,7 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         Color(red: 0.03, green: 0.03, blue: 0.35)
+            .edgesIgnoringSafeArea(.all)
     }
 }
 
