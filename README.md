@@ -19,4 +19,4 @@
 - Target Deployment iOS >=14.0
 
 ## 🏆 Author
-- Huynh Nguyen Minh Thong - tomhuynhsg@gmail.com
+- Huynh Nguyen Minh Thong (Tom Huynh) - tomhuynhsg@gmail.com
