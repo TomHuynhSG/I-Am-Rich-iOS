@@ -8,7 +8,7 @@
 
 ## 💰Description
 
-- This is an iOS application, inspired from the orginal "I Am Rich" by Armin Heinrich.
+- This is an iOS application, inspired from the orginal "I Am Rich" of Armin Heinrich.
 - The application is described as "a work of art with no hidden function at all", with its only purpose being to show other people that they were able to afford it;
 
 <img src="https://i.imgur.com/BwVnH5T.png" width="238" > <img src="https://i.imgur.com/M4SSKRV.png" width="230" >
